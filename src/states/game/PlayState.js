@@ -84,6 +84,7 @@ export default class PlayState extends State
 					break;
 				case 5:
 					sounds.play(SoundName.Piano);
+					break;
 			}
 		}
 		this.player.update(dt);

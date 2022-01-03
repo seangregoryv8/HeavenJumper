@@ -1,6 +1,6 @@
 import Tilemap from "../objects/Tilemap.js";
 import Level from "../objects/Level.js";
-import ChunkData from "../data/levelLayouts/chunkData.js";
+import ChunkData from "../data/levelLayouts/ChunkData.js";
 import TileType from "../enums/TileType.js";
 import ImageName from "../enums/ImageName.js";
 import { getRandomPositiveInteger } from "../../lib/RandomNumberHelpers.js";

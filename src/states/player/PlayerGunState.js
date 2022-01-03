@@ -62,12 +62,12 @@ export default class PlayerGunState extends PlayerState
 					sounds.play(SoundName.Gun)
 					this.player.bullets--;
 					this.animation.firing.refresh();
-					this.player.velocity.y = -250;
+					this.player.velocity.y = -350;
 					this.player.currentAnimation = this.animation.firing;
 					this.player.sprites = SpriteFactory.getSprite(PlayerStateName.Firing);
 					this.state = 'firing';
 				}
-                if ((!keys.RightClick) || this.player.bullets <= 0)
+                if ((!keys.RightClick) || (this.player.bullets <= 0 && this.player.currentAnimation.isDone()))
                 {
 					this.player.velocity.y = -200;
                     this.player.currentAnimation = new Animation([5, 4, 3, 2, 1, 0], 0.1, 1);
@@ -77,9 +77,7 @@ export default class PlayerGunState extends PlayerState
 				break;
 			case 'firing':
 				if (this.player.currentAnimation.isDone())
-				{
 					this.state = 'aiming';
-				}
 				break;
             case 'goingBack':
 				if (this.player.currentAnimation.isDone())
