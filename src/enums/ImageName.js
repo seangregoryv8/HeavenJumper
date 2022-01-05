@@ -21,7 +21,6 @@ const ImageName =
     PlayerAiming:        'playerAiming',
     PlayerFiring:        'playerFiring',
     PlayerSleeping:      'playerSleeping',
-    LogoSmall:           'logo',
     LogoBig:             'logoBig',
     Gun:                 'gun',
     Bullet:              'bullet',

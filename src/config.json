@@ -33,103 +33,103 @@
 		},
 		{
 			"name": "playerIdle",
-			"path": "./assets/images/player/player_idle.png",
+			"path": "./assets/images/player/playerIdle.png",
 			"width": 32,
 			"height": 32
 		},
 		{
 			"name": "playerRunning",
-			"path": "./assets/images/player/player_running.png",
+			"path": "./assets/images/player/playerRunning.png",
 			"width": 128,
 			"height": 32
 		},
 		{
 			"name": "playerWalking",
-			"path": "./assets/images/player/player_walking.png",
+			"path": "./assets/images/player/playerWalking.png",
 			"width": 64,
 			"height": 32
 		},
 		{
 			"name": "playerFalling",
-			"path": "./assets/images/player/player_falling.png",
+			"path": "./assets/images/player/playerFalling.png",
 			"width": 64,
 			"height": 32
 		},
 		{
 			"name": "playerDucking",
-			"path": "./assets/images/player/player_ducking.png",
+			"path": "./assets/images/player/playerDucking.png",
 			"width": 64,
 			"height": 16
 		},
 		{
 			"name": "playerJumping",
-			"path": "./assets/images/player/player_jumping.png",
+			"path": "./assets/images/player/playerJumping.png",
 			"width": 128,
 			"height": 32
 		},
 		{
 			"name": "playerDying",
-			"path": "./assets/images/player/player_dying.png",
+			"path": "./assets/images/player/playerDying.png",
 			"width": 1024,
 			"height": 256
 		},
 		{
 			"name": "playerDead",
-			"path": "./assets/images/player/player_dead.png",
+			"path": "./assets/images/player/playerDead.png",
 			"width": 240,
 			"height": 240
 		},
 		{
 			"name": "playerDeadContinue",
-			"path": "./assets/images/player/player_dead_continue.png",
+			"path": "./assets/images/player/playerDeadContinue.png",
 			"width": 240,
 			"height": 240
 		},
 		{
 			"name": "playerDeadQuit",
-			"path": "./assets/images/player/player_dead_quit.png",
+			"path": "./assets/images/player/playerDeadQuit.png",
 			"width": 240,
 			"height": 240
 		},
 		{
 			"name": "playerHurting",
-			"path": "./assets/images/player/player_hurting.png",
+			"path": "./assets/images/player/playerHurting.png",
 			"width": 128,
 			"height": 16
 		},
 		{
 			"name": "playerDoubleJumping",
-			"path": "./assets/images/player/player_jumping_2.png",
+			"path": "./assets/images/player/playerDoubleJumping.png",
 			"width": 160,
 			"height": 16
 		},
 		{
 			"name": "playerCharging",
-			"path": "./assets/images/player/player_charging.png",
+			"path": "./assets/images/player/playerCharging.png",
 			"width": 192,
 			"height": 24
 		},
 		{
 			"name": "playerFloating",
-			"path": "./assets/images/player/player_floating.png",
+			"path": "./assets/images/player/playerFloating.png",
 			"width": 128,
 			"height": 24
 		},
 		{
 			"name": "playerAiming",
-			"path": "./assets/images/player/player_aiming_short.png",
+			"path": "./assets/images/player/playerAiming.png",
 			"width": 144,
 			"height": 24
 		},
 		{
 			"name": "playerFiring",
-			"path": "./assets/images/player/player_firing.png",
+			"path": "./assets/images/player/playerFiring.png",
 			"width": 220,
 			"height": 36
 		},
 		{
 			"name": "playerSleeping",
-			"path": "./assets/images/player/player_sleeping.png",
+			"path": "./assets/images/player/playerSleeping.png",
 			"width": 384,
 			"height": 32
 		},
