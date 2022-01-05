@@ -56,10 +56,7 @@ export default class TransitionState extends State
 			{
 				timer.wait(1, () => 
 				{
-					sounds.play(SoundName.Die);
-					sounds.play(SoundName.Die2);
-					sounds.play(SoundName.Die3);
-					sounds.play(SoundName.Crash);
+					sounds.play(SoundName.Death);
 					timer.wait(1, () => this.fadeIn())
 				})
 			}

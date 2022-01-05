@@ -242,17 +242,17 @@
 	"sounds":
 	[
 		{
+			"name": "select",
+			"path": "./assets/sounds/select.wav",
+			"size": 1,
+			"volume": 0.6
+		},
+		{
 			"name": "choir",
 			"path": "./assets/sounds/choir.mp3",
 			"size": 1,
 			"volume": 0.7,
 			"loop": true
-		},
-		{
-			"name": "select",
-			"path": "./assets/sounds/bell_select.wav",
-			"size": 1,
-			"volume": 0.6
 		},
 		{
 			"name": "jump",
@@ -342,7 +342,7 @@
 		},
 		{
 			"name": "electricPiano",
-			"path": "./assets/sounds/electric_piano.wav",
+			"path": "./assets/sounds/electricPiano.wav",
 			"size": 1,
 			"volume": 0.2
 		},
@@ -359,38 +359,14 @@
 			"volume": 0.25
 		},
 		{
-			"name": "die",
-			"path": "./assets/sounds/die.wav",
-			"size": 1,
-			"volume": 0.4
-		},
-		{
-			"name": "die",
-			"path": "./assets/sounds/die.wav",
-			"size": 1,
-			"volume": 0.4
-		},
-		{
-			"name": "die2",
-			"path": "./assets/sounds/die2.wav",
-			"size": 1,
-			"volume": 0.4
-		},
-		{
-			"name": "die3",
-			"path": "./assets/sounds/die3.wav",
-			"size": 1,
-			"volume": 0.4
-		},
-		{
-			"name": "crash",
-			"path": "./assets/sounds/crash.mp3",
+			"name": "death",
+			"path": "./assets/sounds/death.wav",
 			"size": 1,
 			"volume": 0.4
 		},
 		{
 			"name": "item",
-			"path": "./assets/sounds/item_get.wav",
+			"path": "./assets/sounds/itemGet.wav",
 			"size": 1,
 			"volume": 0.35
 		}
