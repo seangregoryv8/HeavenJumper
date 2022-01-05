@@ -134,8 +134,8 @@
 			"height": 32
 		},
 		{
-			"name": "logo",
-			"path": "./assets/images/ui/logo.png",
+			"name": "logoSmall",
+			"path": "./assets/images/ui/logoSmall.png",
 			"width": 128,
 			"height": 32
 		},
@@ -146,80 +146,80 @@
 			"height": 32
 		},
 		{
-			"name": "logoBig",
-			"path": "./assets/images/ui/logo-big.png",
+			"name": "logo",
+			"path": "./assets/images/ui/logo.png",
 			"width": 512,
 			"height": 128
 		},
 		{
 			"name": "gun",
-			"path": "./assets/images/ui/gun_ui.png",
+			"path": "./assets/images/ui/gun.png",
 			"width": 100,
 			"height": 64
 		},
 		{
 			"name": "bullet",
-			"path": "./assets/images/ui/bullet_ui.png",
+			"path": "./assets/images/ui/bullet.png",
 			"width": 84,
 			"height": 28
 		},
 		{
 			"name": "bulletEmpty",
-			"path": "./assets/images/ui/bullet_empty_ui.png",
+			"path": "./assets/images/ui/bulletEmpty.png",
 			"width": 84,
 			"height": 28
 		},
 		{
 			"name": "heart",
-			"path": "./assets/images/ui/heart_ui.png",
+			"path": "./assets/images/ui/heart.png",
 			"width": 64,
 			"height": 64
 		},
 		{
 			"name": "heartEmpty",
-			"path": "./assets/images/ui/heart_empty_ui.png",
+			"path": "./assets/images/ui/heartEmpty.png",
 			"width": 64,
 			"height": 64
 		},
 		{
 			"name": "charging",
-			"path": "./assets/images/ui/player_charging_ui.png",
+			"path": "./assets/images/ui/playerChargingUI.png",
 			"width": 96,
 			"height": 96
 		},
 		{
 			"name": "floating",
-			"path": "./assets/images/ui/player_floating_ui.png",
+			"path": "./assets/images/ui/playerFloatingUI.png",
 			"width": 64,
 			"height": 96
 		},
 		{
 			"name": "aiming",
-			"path": "./assets/images/ui/player_aiming_ui.png",
+			"path": "./assets/images/ui/playerAimingUI.png",
 			"width": 88,
 			"height": 88
 		},
 		{
 			"name": "jumping",
-			"path": "./assets/images/ui/player_jumping_ui.png",
+			"path": "./assets/images/ui/playerJumpingUI.png",
 			"width": 64,
 			"height": 64
 		},
 		{
 			"name": "walkingLeft",
-			"path": "./assets/images/ui/player_walking_left_ui.png",
+			"path": "./assets/images/ui/playerWalkingLeftUI.png",
 			"width": 64,
 			"height": 64
 		},
 		{
 			"name": "walkingRight",
-			"path": "./assets/images/ui/player_walking_right_ui.png",
+			"path": "./assets/images/ui/playerWalkingRightUI.png",
 			"width": 64,
 			"height": 64
 		},
 		{
 			"name": "ducking",
-			"path": "./assets/images/ui/player_ducking_ui.png",
+			"path": "./assets/images/ui/playerDuckingUI.png",
 			"width": 64,
 			"height": 64
 		}
