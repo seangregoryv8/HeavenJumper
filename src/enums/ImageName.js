@@ -16,7 +16,7 @@ const ImageName =
     PlayerFloating:      'playerFloating',
     PlayerHurting:       'playerHurting',
     PlayerDying:         'playerDying',
-    Logo:                'logo',
+    LogoBig:                'logoBig',
     UiTiles:             'uiTiles',
     PlayerAiming:        'playerAiming',
     PlayerFiring:        'playerFiring',
