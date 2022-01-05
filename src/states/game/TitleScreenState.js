@@ -58,7 +58,7 @@ export default class TitleScreenState extends State
 		let h = 220;
 
 		context.globalAlpha = 0.3;
-		images.render(ImageName.LogoBig, w, h);
+		images.render(ImageName.LogoSmall, w, h);
 		context.globalAlpha = 1.0;
 		images.render(ImageName.LogoBig, w + 10, h + 10);
 	}
