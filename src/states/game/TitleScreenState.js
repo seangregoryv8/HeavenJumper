@@ -57,7 +57,6 @@ export default class TitleScreenState extends State
 		let w = CANVAS_WIDTH / 2 - 250;
 		let h = 220;
 
-		console.log("Hello World")
 		context.globalAlpha = 0.3;
 		images.render(ImageName.LogoBig, w, h);
 		context.globalAlpha = 1.0;
